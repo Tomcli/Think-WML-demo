@@ -21,7 +21,7 @@
   Then select the **From URL tap**, and paste our demo notebook link below under the **Notebook URL** section.
 
   ```
-  https://github.com/Tomcli/Think-WML-demo/Keras-WML-demo.ipynb
+  https://github.com/Tomcli/Think-WML-demo/blob/master/Keras-WML-demo.ipynb
   ```
 
   Click on **Create Notebook** and start learning about how to Create, Tune, Deploy and Scale a Deep Neural Network using Notebook and Machine Learning service.
